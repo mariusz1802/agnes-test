@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/sweet-1.jpg",
+    "alt": "Agnieszka Tort",
+    "name": "Agnieszka Tort",
+    "button": "Zobacz inne"
+  },
+  {
+    "img": "../assets/images/sweet-2.jpg",
+    "alt": "Agnieszka Ciacho",
+    "name": "Agnieszka Ciacho",
+    "button": "Zobacz inne"
+  },
+  {
+    "img": "../assets/images/sweet-3.jpg",
+    "alt": "Agnieszka Rurka",
+    "name": "Agnieszka Rurka",
+    "button": "Zobacz inne"
+  },
+  {
+    "img": "../assets/images/sweet-4.jpg",
+    "alt": "Agnieszka Babeczka",
+    "name": "Agnieszka Babeczka",
+    "button": "Zobacz inne"
+  }
+]

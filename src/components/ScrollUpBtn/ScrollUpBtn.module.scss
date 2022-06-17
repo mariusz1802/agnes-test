@@ -1,0 +1,17 @@
+.tranasition {
+  right: 20px;
+}
+
+.container {
+  position: fixed;
+  right: -100px;
+  bottom: 150px;
+  transition: right 0.5s;
+  cursor: pointer;
+  background-color: white;
+  font-size: 30px;
+  padding: 10px;
+  min-width: 65px;
+  min-height: 65px;
+  border-radius: 35px;
+}

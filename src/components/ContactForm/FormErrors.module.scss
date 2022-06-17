@@ -1,0 +1,21 @@
+.formErrors {
+  color: rgb(255, 60, 0);
+  font-size: 1.1rem;
+  // display: inline-block;
+  width: 100%;
+  font-weight: 300;
+  position: relative;
+  height: 20px;
+}
+
+.formErrors:last-child {
+  margin-bottom: 0;
+}
+
+.textErrors {
+  display: flex;
+  position: absolute;
+  top: -5px;
+  width: 100%;
+  z-index: 50;
+}
